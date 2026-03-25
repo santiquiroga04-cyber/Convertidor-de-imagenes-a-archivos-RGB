@@ -1,14 +1,9 @@
 Sistemas de Información Gerencial – Pixel Programming
 
 Hola, soy Santiago Quiroga, estudiante universitario interesado en la programación y los sistemas de información.
+Este repositorio documenta mi proceso de aprendizaje en el curso de Sistemas de Información Gerencial, enfocado en el desarrollo de habilidades de lógica de programación a través de Pixel Programming. A través de estos ejercicios, estoy fortaleciendo mi capacidad para pensar de forma estructurada, resolver problemas y traducir instrucciones en código funcional mediante la construcción de soluciones visuales basadas en píxeles.
 
-Este repositorio documenta mi proceso de aprendizaje en el curso de Sistemas de Información Gerencial, enfocado en el desarrollo de habilidades de lógica de programación a través de Pixel Programming.
-
-A través de estos ejercicios, estoy fortaleciendo mi capacidad para pensar de forma estructurada, resolver problemas y traducir instrucciones en código funcional mediante la construcción de soluciones visuales basadas en píxeles.
-
-Este repositorio contiene ejercicios, prácticas y desarrollos realizados utilizando Pixel Programming, una metodología que permite aprender programación mediante la manipulación de elementos visuales (píxeles) en un entorno estructurado.
-
-El enfoque principal es desarrollar la lógica computacional, entendiendo cómo una serie de instrucciones simples pueden generar resultados complejos a nivel visual.
+Este repositorio contiene ejercicios, prácticas y desarrollos realizados utilizando Pixel Programming, una metodología que permite aprender programación mediante la manipulación de elementos visuales (píxeles) en un entorno estructurado. El enfoque principal es desarrollar la lógica computacional, entendiendo cómo una serie de instrucciones simples pueden generar resultados complejos a nivel visual.
 
 Cada ejercicio representa una solución a un problema específico, donde se aplican conceptos fundamentales de programación para construir figuras, patrones o comportamientos dentro de una cuadrícula de píxeles.
 
